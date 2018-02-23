@@ -1,5 +1,4 @@
 
-
 <template>
   <v-footer height="auto">
     <v-card
